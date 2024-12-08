@@ -1,0 +1,1 @@
+The Firebase Realtime Database sometimes throws a `RangeError: Maximum call stack size exceeded` error when dealing with deeply nested data or circular references. This usually happens during recursive operations on the data, such as fetching, updating, or processing.
